@@ -1,0 +1,10 @@
+FATAL Thread-0 ConsoleEx - Fatal Message 
+FATAL Thread-1 ConsoleEx - Fatal Message 
+DEBUG Thread-0 ConsoleEx - Debug Message!
+DEBUG Thread-1 ConsoleEx - Debug Message!
+INFO Thread-0 ConsoleEx - Info Message!
+INFO Thread-1 ConsoleEx - Info Message!
+WARN Thread-0 ConsoleEx - Warn Message!
+WARN Thread-1 ConsoleEx - Warn Message!
+ERROR Thread-0 ConsoleEx - Error Message!
+ERROR Thread-1 ConsoleEx - Error Message!
